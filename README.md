@@ -11,14 +11,6 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Student at **GLBITM, Noida**
-- 💻 Currently learning **Frontend Development**
-- 🌱 Comfortable with **C, C++, Python, HTML, CSS**
-- ⚡ I love building glowing buttons, hover effects, and small UI experiments
-- 📫 Reach me on [Instagram](https://www.instagram.com/_malik_200716)
-
----
 
 ### 🛠️ Tech Stack
 
@@ -58,15 +50,19 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **...**
-- 🌱 I'm currently learning **...**
-- 💬 Ask me about **...**
-- 📫 Reach me at **...**
-- ⚡ Fun fact: **...**
+- 🔭 I'm currently working on **SMART INDIA HACKATHON**
+- 🌱 I'm currently learning **FULL STCK DEVELOPMENT**
+- 💬 Ask me about **free to collaboration**
+- 📫 Reach me at **INSTAGRAM / LINKEDIN /WHATSAPP**
+- ⚡ Fun fact: **I am also a good sketch artist**
+- 🎓 Student at **GLBITM, Noida**
+- 💻 Comfortable with **C, C++, Python, HTML, CSS**
+- ⚡ I love building glowing buttons, hover effects, and small UI experiments
+- 📫 Reach me on [Instagram](https://www.instagram.com/_malik_200716)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Working with
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,git,github,vscode,mysql" />
 </p>
