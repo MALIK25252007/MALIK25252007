@@ -36,20 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MALIK25252007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIK25252007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MALIK25252007&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MALIK25252007&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
@@ -62,25 +48,14 @@
 | [**Cloning_projects**](https://github.com/MALIK25252007/Cloning_projects) | Frontend clone projects using HTML & CSS |
 | [**Who_I_am**](https://github.com/MALIK25252007/Who_I_am) | Responsive personal portfolio, HTML5 + CSS3 |
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MALIK25252007&label=Profile%20views&color=0072ff&style=flat" alt="profile views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" />
-<h1 align="center">Hi there, I'm MALIK25252007 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+build+cool+things+with+code;Always+learning+something+new&font=Fira+Code&center=true&width=480&height=45&color=7A7AFF&vCenter=true&pause=1000&size=22" />
-</p>
+---------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MALIK25252007&label=Profile%20Views&color=7A7AFF&style=flat" />
   <img src="https://img.shields.io/github/followers/MALIK25252007?label=Followers&style=flat&color=7A7AFF" />
 </p>
 
----
+----------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **...**
