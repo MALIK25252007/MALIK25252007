@@ -69,3 +69,66 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" />
+<h1 align="center">Hi there, I'm MALIK25252007 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+build+cool+things+with+code;Always+learning+something+new&font=Fira+Code&center=true&width=480&height=45&color=7A7AFF&vCenter=true&pause=1000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MALIK25252007&label=Profile%20Views&color=7A7AFF&style=flat" />
+  <img src="https://img.shields.io/github/followers/MALIK25252007?label=Followers&style=flat&color=7A7AFF" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I'm currently working on **...**
+- 🌱 I'm currently learning **...**
+- 💬 Ask me about **...**
+- 📫 Reach me at **...**
+- ⚡ Fun fact: **...**
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,git,github,vscode,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MALIK25252007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIK25252007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MALIK25252007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MALIK25252007&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MALIK25252007&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MALIK25252007/MALIK25252007/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ⭐ from MALIK25252007</i></p>
