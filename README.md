@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Learning+Frontend+Development;C+%2B%2B+%7C+Python+%7C+HTML+%7C+CSS;Building+cool+UI+experiments+%F0%9F%92%BB" alt="Typing SVG" />
