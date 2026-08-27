@@ -71,6 +71,14 @@
 
 ### 📊 GitHub Stats
 # 📊 GitHub Stats:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MALIK25252007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIK25252007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MALIK25252007&theme=tokyonight&hide_border=true" />
+</p>
 ![](https://github-readme-stats.shion.dev/api?username=MALIK25252007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MALIK25252007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MALIK25252007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
