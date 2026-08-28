@@ -3,14 +3,25 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p> 
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Learning+Frontend+Development;C+%2B%2B+%7C+Python+%7C+HTML+%7C+CSS;Building+cool+UI+experiments+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Learning+Frontend+Development;C+%2B%2B+%7C+Python+%7C+HTML+%7C+CSS+%7C+React;Building+UI+experiments%2C+one+repo+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
 
+### 🚀 About Me
+
+- 🔭 Currently working on **Smart India Hackathon**
+- 🌱 Currently learning **Full Stack Development** and **React**
+- 💬 Ask me about **frontend UI/animation** or **DSA in C**
+- ⚡ Fun fact: I'm also a sketch artist
+- 🎓 Student at **GLBITM, Noida**
+- 💻 Comfortable with **C, C++, Python, HTML, CSS, JavaScript, React**
+- 📝 I'm now sharing my projects and journey on **[LinkedIn](https://www.linkedin.com/in/tarun-malik-9bab21388/)** — follow along
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -20,65 +31,80 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sql&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,git,github,vscode,mysql" />
 </p>
 
 ---
 
-
 ### 📌 Featured Projects
 
+#### 🎨 UI & Animation Experiments
 | Project | Description |
 |---|---|
-| [**My-Portfolio**](https://github.com/MALIK25252007/My-Portfolio) | My personal developer portfolio site |
-| [**3d-model-webpage**](https://github.com/MALIK25252007/3d-model-webpage) | Interactive 3D character portfolio slider (HTML/CSS/JS) |
-| [**Glow-button**](https://github.com/MALIK25252007/Glow-button) | Futuristic neon glowing button, pure CSS |
-| [**Hover_Effects**](https://github.com/MALIK25252007/Hover_Effects) | CSS-only glowing hover animation effects |
-| [**Cloning_projects**](https://github.com/MALIK25252007/Cloning_projects) | Frontend clone projects using HTML & CSS |
-| [**Who_I_am**](https://github.com/MALIK25252007/Who_I_am) | Responsive personal portfolio, HTML5 + CSS3 |
+| [**Liquid-button-Animation**](https://github.com/MALIK25252007/Liquid-button-Animation) | Liquid-fill toggle button — Sleep / DND / Personal states |
+| [**Glow-button**](https://github.com/MALIK25252007/Glow-button) | Neon glowing button, pure CSS |
+| [**Hover_Effects**](https://github.com/MALIK25252007/Hover_Effects) | CSS-only glow hover animation |
+| [**Cloning_projects**](https://github.com/MALIK25252007/Cloning_projects) | 4 frontend clones — nav bar, calculator, login page, Amazon UI |
 
----------------------------------------------------------------------------------------------------------------------
+#### 💼 Portfolios
+| Project | Description |
+|---|---|
+| [**My-Portfolio**](https://github.com/MALIK25252007/My-Portfolio) | My main personal developer portfolio |
+| [**Portfolio_using_ReactJs**](https://github.com/MALIK25252007/Portfolio_using_ReactJs) | ⚛️ My first React + Vite project |
+| [**3d-model-webpage**](https://github.com/MALIK25252007/3d-model-webpage) | Interactive 3D character carousel slider |
+| [**3D-creator**](https://github.com/MALIK25252007/3D-creator) | 3D creator personal landing page |
+
+#### 🧮 DSA & C++
+| Project | Description |
+|---|---|
+| [**Data-Structure-questions**](https://github.com/MALIK25252007/Data-Structure-questions) | Interview-prep DSA problems solved in C |
+| [**DS-in-c**](https://github.com/MALIK25252007/DS-in-c) | Core data structures implemented from scratch in C |
+| [**Summer_Assignment_25116CN183**](https://github.com/MALIK25252007/Summer_Assignment_25116CN183) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
+
+#### 🏆 Hackathon
+| Project | Description |
+|---|---|
+| [**SIH-Prototype**](https://github.com/MALIK25252007/SIH-Prototype) | KrishiLogix — Smart India Hackathon prototype |
+
+#### 🧰 Functional Apps
+| Project | Description |
+|---|---|
+| [**To-Do-list-Planner**](https://github.com/MALIK25252007/To-Do-list-Planner) | Daily task planner with completion tracking |
+| [**Login_Page**](https://github.com/MALIK25252007/Login_Page) | Cinematic video-background login UI |
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MALIK25252007&label=Profile%20Views&color=7A7AFF&style=flat" />
   <img src="https://img.shields.io/github/followers/MALIK25252007?label=Followers&style=flat&color=7A7AFF" />
 </p>
 
-----------------------------------------------------------------------------------------------------------------------
-
-### 🚀 About Me
-- 🔭 I'm currently working on **SMART INDIA HACKATHON**
-- 🌱 I'm currently learning **FULL STCK DEVELOPMENT**
-- 💬 Ask me about **free to collaboration**
-- 📫 Reach me at **INSTAGRAM / LINKEDIN /WHATSAPP**
-- ⚡ Fun fact: **I am also a good sketch artist**
-- 🎓 Student at **GLBITM, Noida**
-- 💻 Comfortable with **C, C++, Python, HTML, CSS**
-- ⚡ I love building glowing buttons, hover effects, and small UI experiments
-- 📫 Reach me on [Instagram](https://www.instagram.com/_malik_200716)
-
 ---
 
-### 🛠️ Working with
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,git,github,vscode,mysql" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MALIK25252007&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=MALIK25252007&theme=dark&hide_border=false" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIK25252007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=MALIK25252007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MALIK25252007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MALIK25252007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### 🏆 Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MALIK25252007&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
@@ -86,6 +112,7 @@
 ---
 
 ### 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MALIK25252007&theme=tokyo-night&hide_border=true" />
 </p>
@@ -93,10 +120,21 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MALIK25252007/MALIK25252007/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarun-malik-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_malik_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/918279630850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 <p align="center"><i>Thanks for stopping by! ⭐ from MALIK25252007</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" />
