@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Smart India Hackathon**
+- 🔭 Currently working on **Food redistribution and matcher website**
 - 🌱 Currently learning **Full Stack Development** and **React**
 - 💬 Ask me about **frontend UI/animation** or **DSA in C**
 - ⚡ Fun fact: I'm also a sketch artist
