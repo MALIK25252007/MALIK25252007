@@ -77,6 +77,7 @@
 #### 🧰 Functional Apps
 | Project | Description |
 |---|---|
+| [**Campus food redistriction**](https://github.com/MALIK25252007/Smart_Campus_Food_matcher) | work for reducing food wastage and food availability for all |
 | [**To-Do-list-Planner**](https://github.com/MALIK25252007/To-Do-list-Planner) | Daily task planner with completion tracking |
 | [**Login_Page**](https://github.com/MALIK25252007/Login_Page) | Cinematic video-background login UI |
 
