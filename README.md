@@ -13,13 +13,25 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Food redistribution and matcher website**
+- 🔭 Currently working on **Smart India Hackathon**
 - 🌱 Currently learning **Full Stack Development** and **React**
 - 💬 Ask me about **frontend UI/animation** or **DSA in C**
 - ⚡ Fun fact: I'm also a sketch artist
 - 🎓 Student at **GLBITM, Noida**
 - 💻 Comfortable with **C, C++, Python, HTML, CSS, JavaScript, React**
 - 📝 I'm now sharing my projects and journey on **[LinkedIn](https://www.linkedin.com/in/tarun-malik-9bab21388/)** — follow along
+
+---
+
+### 🧭 Currently Building Toward
+
+<p align="center">
+  <a href="https://github.com/MALIK25252007/Growth-Roadmap">
+    <img src="https://img.shields.io/badge/📍_View_My_Growth_Roadmap-141E30?style=for-the-badge&labelColor=243B55" />
+  </a>
+</p>
+
+A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems, hackathons, and internship readiness. Updated as I go, not a one-time plan.
 
 ---
 
@@ -62,14 +74,12 @@
 | [**3d-model-webpage**](https://github.com/MALIK25252007/3d-model-webpage) | Interactive 3D character carousel slider |
 | [**3D-creator**](https://github.com/MALIK25252007/3D-creator) | 3D creator personal landing page |
 
-#### 🧮 DSA & coding challenge
+#### 🧮 DSA & C++
 | Project | Description |
 |---|---|
 | [**Data-Structure-questions**](https://github.com/MALIK25252007/Data-Structure-questions) | Interview-prep DSA problems solved in C |
 | [**DS-in-c**](https://github.com/MALIK25252007/DS-in-c) | Core data structures implemented from scratch in C |
-| [**DSA in C++**](https://github.com/MALIK25252007/Cpp_30_days_challenge) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
-| [**DSA in python**](https://github.com/MALIK25252007/Python_30_days-challenge) | 30 days challenge of coding in python (Running) |
-
+| [**Summer_Assignment_25116CN183**](https://github.com/MALIK25252007/Summer_Assignment_25116CN183) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
 
 #### 🏆 Hackathon
 | Project | Description |
@@ -79,7 +89,6 @@
 #### 🧰 Functional Apps
 | Project | Description |
 |---|---|
-| [**Campus food redistriction**](https://github.com/MALIK25252007/Smart_Campus_Food_matcher) | work for reducing food wastage and food availability for all |
 | [**To-Do-list-Planner**](https://github.com/MALIK25252007/To-Do-list-Planner) | Daily task planner with completion tracking |
 | [**Login_Page**](https://github.com/MALIK25252007/Login_Page) | Cinematic video-background login UI |
 
