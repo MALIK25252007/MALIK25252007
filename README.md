@@ -118,7 +118,7 @@ A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MALIK25252007&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MALIK25252007&theme=darkhub&no-frame=true&row=1&column=5" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MALIK25252007&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MALIK25252007&theme=tokyo-night&hide_border=true"  />
 </p>
 
 ---
