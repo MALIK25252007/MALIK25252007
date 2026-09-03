@@ -67,8 +67,8 @@
 |---|---|
 | [**Data-Structure-questions**](https://github.com/MALIK25252007/Data-Structure-questions) | Interview-prep DSA problems solved in C |
 | [**DS-in-c**](https://github.com/MALIK25252007/DS-in-c) | Core data structures implemented from scratch in C |
-| [**DSA in C++**](https://github.com/MALIK25252007/C++ 30-days-Challenge) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
-| [**DSA in python**](https://github.com/MALIK25252007/30-days-python-challenge) | 30 days challenge of coding in python (Running) |
+| [**DSA in C++**](https://github.com/MALIK25252007/Cpp_30_days_challenge) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
+| [**DSA in python**](https://github.com/MALIK25252007/Python_30_days-challenge) | 30 days challenge of coding in python (Running) |
 
 
 #### 🏆 Hackathon
