@@ -62,12 +62,14 @@
 | [**3d-model-webpage**](https://github.com/MALIK25252007/3d-model-webpage) | Interactive 3D character carousel slider |
 | [**3D-creator**](https://github.com/MALIK25252007/3D-creator) | 3D creator personal landing page |
 
-#### 🧮 DSA & C++
+#### 🧮 DSA & coding challenge
 | Project | Description |
 |---|---|
 | [**Data-Structure-questions**](https://github.com/MALIK25252007/Data-Structure-questions) | Interview-prep DSA problems solved in C |
 | [**DS-in-c**](https://github.com/MALIK25252007/DS-in-c) | Core data structures implemented from scratch in C |
-| [**Summer_Assignment_25116CN183**](https://github.com/MALIK25252007/Summer_Assignment_25116CN183) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
+| [**DSA in C++**](https://github.com/MALIK25252007/C++ 30-days-Challenge) | 30 days of C++ practice → Library/Hotel/Railway mini systems |
+| [**DSA in python**](https://github.com/MALIK25252007/30-days-python-challenge) | 30 days challenge of coding in python (Running) |
+
 
 #### 🏆 Hackathon
 | Project | Description |
