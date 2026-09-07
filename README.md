@@ -1,3 +1,63 @@
+## Ship · learn · repeat
+
+<p><code>malik25252007@github:~$ whoami</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4&style=terminal" alt="malik25252007 hero visual" />
+</p>
+
+**Tarun Malik** · Frontend or full-stack engineer
+
+## The current loop
+
+> CS &amp; IT student @ GLBITM Noida | Frontend Developer | C++, Python, HTML/CSS/JS | Turning ideas into clean, usable interfaces
+
+- 📍 Based in **Knowledge park 3 Greater Noida Gautam Buddha Nagar **
+- 🌐 [Website](https://malik25252007.github.io/My-Portfolio/)
+- 👥 **6** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Things I’m building
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/MALIK25252007/Who_I_am">Who_I_am</a></b></td><td>🔥 A personal bio/hero landing page — who I am, my skills, services, and how to reach me. Built with HTML/CSS.<br/><sub>CSS · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/MALIK25252007/kinetic-portfolio">kinetic-portfolio</a></b></td><td>⬛ A CSS-only kinetic portfolio layout with expanding hover panels, dark industrial theme. Based on the &quot;Compression&quot; template by TemplateMo, customized with my own contact details.<br/><sub>CSS · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/MALIK25252007/My_Spotify_Clone">My_Spotify_Clone</a></b></td><td>🎧 A detailed frontend clone of Spotify's web player — sidebar, playlists, artist page, and a full player bar UI. Built with pure HTML, CSS &amp; JavaScript.<br/><sub>HTML · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/MALIK25252007/SIH-Prototype">SIH-Prototype</a></b></td><td>🌾 KrishiLogix — a Smart India Hackathon prototype bringing transparency and fair pricing to the agricultural supply chain, farm to fork.<br/><sub>JavaScript · 1 stars</sub></td></tr>
+</table>
+
+## Launch notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4" alt="malik25252007 highlights visual" />
+</p>
+
+<p><b>Tarun Malik</b> is shipping 24 public projects with 18 stars of proof.</p>
+
+## Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4" alt="malik25252007 stats visual" />
+</p>
+
+<p><code>370 contributions</code> · <code>23 day streak</code></p>
+
+## The shipping calendar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=malik25252007&theme=neon" alt="malik25252007 contribution activity" />
+</p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4" alt="malik25252007 social visual" />
+</p>
+
+<a href="https://github.com/malik25252007">GitHub</a> · <a href="https://malik25252007.github.io/My-Portfolio/">Website</a>
+
+<p align="center"><sub>Tarun Malik · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 <h1 align="center">Hi 👋, I'm Tarun Malik</h1>
 <h3 align="center">Frontend Developer in the making | Student @ GLBITM, Noida</h3>
 
