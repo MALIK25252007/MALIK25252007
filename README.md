@@ -140,14 +140,6 @@ A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems
 
 ---
 
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tarun-malik-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_malik_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://wa.me/918279630850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
-## Ship · learn · repeat
 
 <p><code>malik25252007@github:~$ whoami</code></p>
 
@@ -196,7 +188,14 @@ A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems
   <img src="https://www.gitskins.com/api/section/social?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4" alt="malik25252007 social visual" />
 </p>
 
+
 <a href="https://github.com/malik25252007">GitHub</a> · <a href="https://malik25252007.github.io/My-Portfolio/">Website</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarun-malik-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_malik_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/918279630850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
 
 <p align="center"><i>Thanks for stopping by! ⭐ from MALIK25252007</i></p>
 
