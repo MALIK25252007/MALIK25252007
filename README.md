@@ -1,5 +1,4 @@
 
-<p align="center"><sub>Tarun Malik · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 <h1 align="center">Hi 👋, I'm Tarun Malik</h1>
 <h3 align="center">Frontend Developer in the making | Student @ GLBITM, Noida</h3>
 
