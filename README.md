@@ -16,7 +16,7 @@
 
 - 🔭 Currently working on **API calling**
 - 🌱 Currently learning **Full Stack Development** and **React**
-- 💬 Ask me about **frontend UI/animation** or **DSA in C**
+- 💬 Ask me about **frontend UI/animation** or **DSA in C/ python**
 - ⚡ Fun fact: I'm also a sketch artist
 - 🎓 Student at **GLBITM, Noida**
 - 💻 Comfortable with **C, C++, Python, HTML, CSS, JavaScript, React**
