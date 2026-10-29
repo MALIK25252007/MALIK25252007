@@ -171,16 +171,23 @@ A tracked, phase-by-phase plan — closing the full-stack gap, 150+ DSA problems
 ## Signals
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=malik25252007&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242449338%3Fu%3D299803bb3736078f7e6dc9756ab35f0281af5d9d%26v%3D4" alt="malik25252007 stats visual" />
+  <img src="./assets/analytics-grid.svg" alt="{{name}} — today, in numbers" width="100%" />
 </p>
 
-<p><code>370 contributions</code> · <code>23 day streak</code></p>
+### what these say
 
-## The shipping calendar
+- **Commits trend up** because {{commit_reason}}
+- **Streak is steady** because {{streak_reason}}
+- **Cadence skews mid-week** because {{cadence_reason}}
 
+### live data
+
+<!-- Optional: drop github-readme-stats card here for actual real-time stats -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=malik25252007&theme=neon" alt="malik25252007 contribution activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username={{username}}&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
 </p>
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
 
 ## Work with me
 
